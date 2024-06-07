@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [nikhilsingh.com.np](nikhilsingh.com.np)
 
-- 💬 Ask me about **Machine Learning , Natural Language Processing**
+- 💬 Ask me about **Machine Learning , Natural Language Processing, Artificial Intelligence**
 
 - 📫 How to reach me **aiengineer@nikhilsingh.com.np**
 
