@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Artificial Intelligence, Web Development**
 
-- 📫 How to reach me **aiengineer@nikhilsingh.com.np**
+- 📫 How to reach me **singhnikhil03@outlook.com**
 
 
 
