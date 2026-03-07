@@ -34,8 +34,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=singhnikhil01&limit=5&theme=dark&combine_all_yearly_contributions=flase)
+### 🔝 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhnikhil01&theme=github-compact&hide_border=true" />
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=singhnikhil01&icon=1&color=8)](https://visitcount.itsvg.in)
